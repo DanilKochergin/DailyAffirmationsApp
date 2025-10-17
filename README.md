@@ -2,7 +2,6 @@
 
 *Transform Your Day with Daily Positive Power*
 
-![Last Commit](https://img.shields.io/badge/last%20commit-today-brightgreen)
 ![Kotlin](https://img.shields.io/badge/kotlin-100%25-blue)
 ![Languages](https://img.shields.io/badge/languages-1-lightgrey)
 
